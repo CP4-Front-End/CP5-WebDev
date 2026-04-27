@@ -10,10 +10,10 @@ Loja virtual de games desenvolvida com tecnologias modernas de front-end, focada
 ## Equipe
 | Nome | Função |
 |------|--------|
-| Felipe Menezes | Tech Líder |
+|  João Gonzales | Tech Líder |
 | Gabriel Ardito | Desenvolvedor |
 | João Sarracine | Desenvolvedor |
-| João Gozado | Desenvolvedor |
+| Felipe Menezes | Desenvolvedor |
 
 ## Funcionalidades
 - Página inicial com boas-vindas e apresentação da loja
