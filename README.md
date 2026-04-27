@@ -8,8 +8,8 @@ Loja virtual de games desenvolvida com tecnologias modernas de front-end, focada
 - [Tailwind CSS](https://tailwindcss.com/)
 
 ## Equipe
-| Nome | Função |
-|------|--------|
+| Nome | RM | Função |
+|------|--------|--------|
 | João Gonzales  | RM:568166 |  Tech Líder   |
 | Gabriel Ardito | RM:568318 | Desenvolvedor |
 | João Sarracine | RM:567407 | Desenvolvedor |
