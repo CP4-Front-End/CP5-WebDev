@@ -1,5 +1,7 @@
 import { useState } from 'react'
 import logo from '../assets/logo.png';
+import { Link } from 'react-router-dom';
+import Home from '../routes/Home'
 import {
   Dialog,
   DialogPanel,
@@ -39,14 +41,13 @@ export default function Example() {
 
   return (
     <header className="bg-[#A60321]">
-      <nav aria-label="Global" className="mx-auto flex max-w-7xl items-center justify-between p-6 lg:px-8">
+      <nav aria-label="Global" className="mx-auto flex max-w-7xl items-center justify-between p-0.5 lg:px-8">
         <div className="flex lg:flex-1">
-          <a href="#" className="-m-2.5 p-2.5">
-            <span className="sr-only">Os Joga Fofo</span>
+          <a href="/" className="-m-1.5 p-1.5">
             <img
     src={logo}
     alt="Os Joga Fofo"
-    className="h-8 w-auto"
+    className="h-20 w-auto"
   />
           </a>
         </div>

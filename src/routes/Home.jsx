@@ -1,7 +1,7 @@
-import { Link } from 'react-router-dom'
 import {Link} from 'react-router-dom'
 import Header from '../components/Header'
 import Footer from '../components/Footer'
+import Card from './Card'
 
 const Home = () => {
   return (
@@ -10,7 +10,6 @@ const Home = () => {
 
       <main className="bg-[#590209] text-white">
 
-        {/* HERO */}
         <section className="max-w-7xl mx-auto px-6 py-24 text-center">
           <h1 className="text-5xl md:text-6xl font-bold mb-6">
             Joga Fofo
@@ -21,14 +20,13 @@ const Home = () => {
           </p>
 
           <Link
-            to="/jogos"
+            to="/card"
             className="bg-[#F20530] hover:bg-[#A60321] px-8 py-4 rounded-xl font-semibold transition"
           >
             Explorar Jogos
           </Link>
         </section>
 
-        {/* SEÇÃO AZUL (contraste visual) */}
         <section className="bg-[#025373] py-20 px-6">
           <div className="max-w-7xl mx-auto text-center">
             <h2 className="text-3xl font-bold mb-12">
@@ -62,7 +60,6 @@ const Home = () => {
           </div>
         </section>
 
-        {/* DESTAQUES */}
         <section className="max-w-7xl mx-auto px-6 py-24">
           <h2 className="text-3xl font-bold mb-12 text-center">
             Destaques
@@ -94,14 +91,13 @@ const Home = () => {
           </div>
         </section>
 
-        {/* CTA FINAL */}
         <section className="bg-[#A60321] py-20 text-center px-6">
           <h2 className="text-3xl font-bold mb-6">
             Bora jogar?
           </h2>
 
           <Link
-            to="/jogos"
+            to="/card"
             className="bg-white text-[#590209] px-10 py-4 rounded-xl font-semibold hover:scale-105 transition"
           >
             Acessar Catálogo

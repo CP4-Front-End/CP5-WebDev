@@ -30,7 +30,7 @@ export default function Footer() {
             <h4 className="font-bold text-[#F20530] mb-4">Contato</h4>
             <ul className="space-y-2 text-white text-sm">
               <li className="transition-[color] duration-500 hover:text-[#03588C] cursor-default">contato@jogafofo.com</li>
-              <li className="transition-[color] duration-500 hover:text-[#03588C] cursor-default">(11) 99999-9999</li>
+              <li className="transition-[color] duration-500 hover:text-[#03588C] cursor-default">(11) 98929-6378</li>
               <li className="transition-[color] duration-500 hover:text-[#03588C] cursor-default">Sao Paulo, SP</li>
             </ul>
           </div>
