@@ -6,6 +6,14 @@ function App() {
     <>
       <Header/>
     </>
+import Footer from "./components/Footer"
+
+function App() {
+
+  return (
+    <BrowserRouter>
+      <Footer/>
+    </BrowserRouter>
   )
 }
 
