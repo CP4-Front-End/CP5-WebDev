@@ -10,10 +10,10 @@ Loja virtual de games desenvolvida com tecnologias modernas de front-end, focada
 ## Equipe
 | Nome | Função |
 |------|--------|
-|  João Gonzales | Tech Líder |
-| Gabriel Ardito | Desenvolvedor |
-| João Sarracine | Desenvolvedor |
-| Felipe Menezes | Desenvolvedor |
+| João Gonzales  | RM:568166 |  Tech Líder   |
+| Gabriel Ardito | RM:568318 | Desenvolvedor |
+| João Sarracine | RM:567407 | Desenvolvedor |
+| Felipe Menezes | RM:566607 | Desenvolvedor |
 
 ## Funcionalidades
 - Página inicial com boas-vindas e apresentação da loja
