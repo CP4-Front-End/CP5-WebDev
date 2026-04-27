@@ -10,6 +10,20 @@ function App() {
         <Route path="/card" element={<Card/>}/>
         <Route path="/" element={<Home/>}/>
       </Routes>
+import Header from "./components/Header"
+function App() {
+
+  return (
+    <>
+      <Header/>
+    </>
+import Footer from "./components/Footer"
+
+function App() {
+
+  return (
+    <BrowserRouter>
+      <Footer/>
     </BrowserRouter>
   )
 }
