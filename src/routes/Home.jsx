@@ -1,7 +1,7 @@
 import {Link} from 'react-router-dom'
 import Header from '../components/Header'
 import Footer from '../components/Footer'
-import Card from './Card'
+import Produtos from './Produtos'
 
 const Home = () => {
   return (
@@ -20,7 +20,7 @@ const Home = () => {
           </p>
 
           <Link
-            to="/card"
+            to="/produtos"
             className="bg-[#F20530] hover:bg-[#A60321] px-8 py-4 rounded-xl font-semibold transition"
           >
             Explorar Jogos
@@ -97,7 +97,7 @@ const Home = () => {
           </h2>
 
           <Link
-            to="/card"
+            to="/produtos"
             className="bg-white text-[#590209] px-10 py-4 rounded-xl font-semibold hover:scale-105 transition"
           >
             Acessar Catálogo
